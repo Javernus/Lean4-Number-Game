@@ -81,28 +81,27 @@ I have created a folder for each world in the game, with a new file for each puz
 6. [Puzzle 6.](4b.%20Advanced%20Addition%20World/6.lean)
 7. [Puzzle 7.](4b.%20Advanced%20Addition%20World/7.lean)
 
-### World 5a: LEQ World
+### World 4c: Algorithm World
 
 
-1. [Puzzle 1.](5a.%20LEQ%20World/1.lean)
-2. [Puzzle 2.](5a.%20LEQ%20World/2.lean)
-3. [Puzzle 3.](5a.%20LEQ%20World/3.lean)
-4. [Puzzle 4.](5a.%20LEQ%20World/4.lean)
-5. [Puzzle 5.](5a.%20LEQ%20World/5.lean)
-6. [Puzzle 6.](5a.%20LEQ%20World/6.lean)
-7. [Puzzle 7.](5a.%20LEQ%20World/7.lean)
-8. [Puzzle 8.](5a.%20LEQ%20World/8.lean)
+1. [Puzzle 1.](4c.%20Algorithm%20World/1.lean)
+2. [Puzzle 2.](4c.%20Algorithm%20World/2.lean)
+3. [Puzzle 3.](4c.%20Algorithm%20World/3.lean)
+4. [Puzzle 4.](4c.%20Algorithm%20World/4.lean)
+5. [Puzzle 5.](4c.%20Algorithm%20World/5.lean)
+6. [Puzzle 6.](4c.%20Algorithm%20World/6.lean)
+7. [Puzzle 7.](4c.%20Algorithm%20World/7.lean)
+8. [Puzzle 8.](4c.%20Algorithm%20World/8.lean)
+9. [Puzzle 9.](4c.%20Algorithm%20World/9.lean)
 
-### World 5b: Algorithm World
+### World 5: LEQ World
 
 
-1. [Puzzle 1.](5b.%20Algorithm%20World/1.lean)
-2. [Puzzle 2.](5b.%20Algorithm%20World/2.lean)
-3. [Puzzle 3.](5b.%20Algorithm%20World/3.lean)
-4. [Puzzle 4.](5b.%20Algorithm%20World/4.lean)
-5. [Puzzle 5.](5b.%20Algorithm%20World/5.lean)
-6. [Puzzle 6.](5b.%20Algorithm%20World/6.lean)
-7. [Puzzle 7.](5b.%20Algorithm%20World/7.lean)
-8. [Puzzle 8.](5b.%20Algorithm%20World/8.lean)
-9. [Puzzle 9.](5b.%20Algorithm%20World/9.lean)
-
+1. [Puzzle 1.](5.%20LEQ%20World/1.lean)
+2. [Puzzle 2.](5.%20LEQ%20World/2.lean)
+3. [Puzzle 3.](5.%20LEQ%20World/3.lean)
+4. [Puzzle 4.](5.%20LEQ%20World/4.lean)
+5. [Puzzle 5.](5.%20LEQ%20World/5.lean)
+6. [Puzzle 6.](5.%20LEQ%20World/6.lean)
+7. [Puzzle 7.](5.%20LEQ%20World/7.lean)
+8. [Puzzle 8.](5.%20LEQ%20World/8.lean)

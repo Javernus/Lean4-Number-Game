@@ -1,10 +1,10 @@
 # Lean4 Natural Number Game Solutions
 
-In this repository, I will document the solutions I have written to solve the puzzles in the [Natural Number Game](https://adam.math.hhu.de/#/g/leanprover-community/nng4). 
+In this repository, I will document the solutions I have written to solve the puzzles in the [Natural Number Game](https://adam.math.hhu.de/#/g/leanprover-community/nng4).
 
 ## Word of Warning
 
-I recommend thinking through the puzzles by yourself. Do not look up the solutions. Go do something else for a while and come back with a different mindset. 
+I recommend thinking through the puzzles by yourself. Do not look up the solutions. Go do something else for a while and come back with a different mindset.
 
 I made this repository to archive my own solutions, and for anybody to compare their code to mine—perchance yours is better: make a comment!
 
@@ -59,7 +59,6 @@ I have created a folder for each world in the game, with a new file for each puz
 
 ### World 4a: Power World
 
-
 1. [Puzzle 1.](4a.%20Power%20World/1.lean)
 2. [Puzzle 2.](4a.%20Power%20World/2.lean)
 3. [Puzzle 3.](4a.%20Power%20World/3.lean)
@@ -83,7 +82,6 @@ I have created a folder for each world in the game, with a new file for each puz
 
 ### World 4c: Algorithm World
 
-
 1. [Puzzle 1.](4c.%20Algorithm%20World/1.lean)
 2. [Puzzle 2.](4c.%20Algorithm%20World/2.lean)
 3. [Puzzle 3.](4c.%20Algorithm%20World/3.lean)
@@ -94,14 +92,13 @@ I have created a folder for each world in the game, with a new file for each puz
 8. [Puzzle 8.](4c.%20Algorithm%20World/8.lean)
 9. [Puzzle 9.](4c.%20Algorithm%20World/9.lean)
 
-### World 5: LEQ World
+### World 5: Inequality World
 
-
-1. [Puzzle 1.](5.%20LEQ%20World/1.lean)
-2. [Puzzle 2.](5.%20LEQ%20World/2.lean)
-3. [Puzzle 3.](5.%20LEQ%20World/3.lean)
-4. [Puzzle 4.](5.%20LEQ%20World/4.lean)
-5. [Puzzle 5.](5.%20LEQ%20World/5.lean)
-6. [Puzzle 6.](5.%20LEQ%20World/6.lean)
-7. [Puzzle 7.](5.%20LEQ%20World/7.lean)
-8. [Puzzle 8.](5.%20LEQ%20World/8.lean)
+1. [Puzzle 1.](5.%20Inequality%20World/1.lean)
+2. [Puzzle 2.](5.%20Inequality%20World/2.lean)
+3. [Puzzle 3.](5.%20Inequality%20World/3.lean)
+4. [Puzzle 4.](5.%20Inequality%20World/4.lean)
+5. [Puzzle 5.](5.%20Inequality%20World/5.lean)
+6. [Puzzle 6.](5.%20Inequality%20World/6.lean)
+7. [Puzzle 7.](5.%20Inequality%20World/7.lean)
+8. [Puzzle 8.](5.%20Inequality%20World/8.lean)
